@@ -172,11 +172,6 @@ print(f'Predicted Price: {predicted_prices[-1]}')
 print(f'Actual Price: {actual_prices[-1]}')
 
 
-
-
-
-
-
 ```
 
 ### OUTPUT
@@ -184,22 +179,17 @@ print(f'Actual Price: {actual_prices[-1]}')
 ## Training Loss Over Epochs Plot
 
 
-<img width="813" height="483" alt="image" src="https://github.com/user-attachments/assets/7a1dff31-6daf-4501-8549-666725ea726c" />
-
-<img width="804" height="636" alt="image" src="https://github.com/user-attachments/assets/afc6f8bc-5125-4c31-8dfd-a8e40f821cb2" />
+<img width="762" height="1062" alt="image" src="https://github.com/user-attachments/assets/d3455013-e614-4220-b96d-bfc65a4b2f76" />
 
 
 ## True Stock Price, Predicted Stock Price vs time
 
 
-<img width="1077" height="732" alt="image" src="https://github.com/user-attachments/assets/17210d0b-1c46-48f0-85f1-e3bd05d7c282" />
-
-
-
+<img width="1082" height="741" alt="image" src="https://github.com/user-attachments/assets/eee6a6b7-120e-4596-aba7-03ca8bcb829b" />
 
 ### Predictions
 
-<img width="582" height="55" alt="image" src="https://github.com/user-attachments/assets/a23adc8a-aba5-4f5d-8335-20f6f398be8c" />
+<img width="421" height="52" alt="image" src="https://github.com/user-attachments/assets/e5116b6c-b062-48b8-8b44-87537f662572" />
 
 ## RESULT
 
